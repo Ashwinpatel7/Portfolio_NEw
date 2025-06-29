@@ -1,0 +1,142 @@
+[
+    {
+        "bookName": "The Alchemist",
+        "author": "Paulo Coelho",
+        "genre": "Fiction, Philosophy",
+        "publishYear": "1988",
+        "dateOfCompletion": "2023-06-15",
+        "coverImage": "./assets/images/book-covers/TheAlchemist.jpg",
+        "amazonLink": "https://www.amazon.in/Alchemist-Paulo-Coelho/dp/8172234988",
+        "quotes": [
+            "And, when you want something, all the universe conspires in helping you to achieve it.",
+            "It's the possibility of having a dream come true that makes life interesting.",
+            "When we love, we always strive to become better than we are."
+        ]
+    },
+    {
+        "bookName": "Harry Potter Series",
+        "author": "J.K. Rowling",
+        "genre": "Fantasy, Adventure",
+        "publishYear": "1997-2007",
+        "dateOfCompletion": "2022-12-20",
+        "coverImage": "./assets/images/book-covers/HarryPotter.jpg",
+        "amazonLink": "https://www.amazon.in/Harry-Potter-Complete-Collection-Rowling/dp/1408856778",
+        "quotes": [
+            "It is our choices that show what we truly are, far more than our abilities.",
+            "Happiness can be found even in the darkest of times, if one only remembers to turn on the light.",
+            "After all this time? Always."
+        ]
+    },
+    {
+        "bookName": "Five Point Someone",
+        "author": "Chetan Bhagat",
+        "genre": "Fiction, Comedy",
+        "publishYear": "2004",
+        "dateOfCompletion": "2023-03-10",
+        "coverImage": "./assets/images/book-covers/FivePointSomeone.jpg.webp",
+        "amazonLink": "https://www.amazon.in/Five-Point-Someone-Chetan-Bhagat/dp/8129135728",
+        "quotes": [
+            "Sometimes you have to do something unforgivable just to be able to go on living.",
+            "Certificates from the system don't make you educated. Education is what remains after you forget what you learned in school.",
+            "Life is not to be taken seriously, as we are really temporary here."
+        ]
+    },
+    {
+        "bookName": "The Monk Who Sold His Ferrari",
+        "author": "Robin Sharma",
+        "genre": "Self-Help, Philosophy",
+        "publishYear": "1997",
+        "dateOfCompletion": "2023-08-05",
+        "coverImage": "./assets/images/book-covers/TheMonkWhoSoldHisFerrari.jpg.jpg",
+        "amazonLink": "https://www.amazon.in/Monk-Who-Sold-His-Ferrari/dp/8179921611",
+        "quotes": [
+            "The purpose of life is a life of purpose.",
+            "What lies behind you and what lies in front of you, pales in comparison to what lies inside of you.",
+            "Every second you dwell on the past, you steal from your future."
+        ]
+    },
+    {
+        "bookName": "Gulliver's Travels",
+        "author": "Jonathan Swift",
+        "genre": "Satire, Adventure",
+        "publishYear": "1726",
+        "dateOfCompletion": "2023-01-20",
+        "coverImage": "./assets/images/book-covers/GulliversTravels.jpg.webp",
+        "amazonLink": "https://www.amazon.in/Gullivers-Travels-Jonathan-Swift/dp/0141439491",
+        "quotes": [
+            "I cannot but conclude that the bulk of your natives to be the most pernicious race of little odious vermin that nature ever suffered to crawl upon the surface of the earth.",
+            "Vision is the art of seeing what is invisible to others.",
+            "Every man desires to live long, but no man wishes to be old."
+        ]
+    },
+    {
+        "bookName": "The Story of My Life",
+        "author": "Helen Keller",
+        "genre": "Autobiography, Biography",
+        "publishYear": "1903",
+        "dateOfCompletion": "2023-04-12",
+        "coverImage": "./assets/images/book-covers/TheStoryOfMyLife.jpg.webp",
+        "amazonLink": "https://www.amazon.in/Story-My-Life-Helen-Keller/dp/0486292495",
+        "quotes": [
+            "The best and most beautiful things in the world cannot be seen or even touched - they must be felt with the heart.",
+            "Life is either a daring adventure or nothing at all.",
+            "Keep your face always toward the sunshine—and shadows will fall behind you."
+        ]
+    },
+    {
+        "bookName": "Atomic Habits",
+        "author": "James Clear",
+        "genre": "Self-Help, Psychology",
+        "publishYear": "2018",
+        "dateOfCompletion": "2023-09-18",
+        "coverImage": "./assets/images/book-covers/AtomicHabits.jpg",
+        "amazonLink": "https://www.amazon.in/Atomic-Habits-James-Clear/dp/1847941834",
+        "quotes": [
+            "You do not rise to the level of your goals. You fall to the level of your systems.",
+            "Every action you take is a vote for the type of person you wish to become.",
+            "The most effective way to change your habits is to focus not on what you want to achieve, but on who you wish to become."
+        ]
+    },
+    {
+        "bookName": "2 States",
+        "author": "Chetan Bhagat",
+        "genre": "Romance, Fiction",
+        "publishYear": "2009",
+        "dateOfCompletion": "2023-05-22",
+        "coverImage": "./assets/images/book-covers/2States.jpg.jpg",
+        "amazonLink": "https://www.amazon.in/States-Story-Marriage-Chetan-Bhagat/dp/8129135299",
+        "quotes": [
+            "Sometimes, you have to make a decision that will hurt your heart but heal your soul.",
+            "Love marriages around the world are simple: Boy loves girl. Girl loves boy. They get married.",
+            "Destiny has a funny way of making things happen."
+        ]
+    },
+    {
+        "bookName": "The Leader Who Had No Title",
+        "author": "Robin Sharma",
+        "genre": "Leadership, Self-Help",
+        "publishYear": "2010",
+        "dateOfCompletion": "2023-07-30",
+        "coverImage": "./assets/images/book-covers/TheLeaderWhoHadNoTitle.jpg.jpg",
+        "amazonLink": "https://www.amazon.in/Leader-Who-Had-No-Title/dp/1439109133",
+        "quotes": [
+            "Leadership is not about a title or a designation. It's about impact, influence, and inspiration.",
+            "The way you begin your day determines the way you live your day.",
+            "Small daily improvements over time lead to stunning results."
+        ]
+    },
+    {
+        "bookName": "3 Mistakes of My Life",
+        "author": "Chetan Bhagat",
+        "genre": "Fiction, Drama",
+        "publishYear": "2008",
+        "dateOfCompletion": "2023-02-14",
+        "coverImage": "./assets/images/book-covers/3MistakesOfMyLife.jpg.jpg",
+        "amazonLink": "https://www.amazon.in/Mistakes-My-Life-Chetan-Bhagat/dp/8129112825",
+        "quotes": [
+            "Sometimes, the hardest person to forgive is yourself.",
+            "Life is not about the mistakes you make, but about how you learn from them.",
+            "Dreams are not what you see in sleep, dreams are the things that don't let you sleep."
+        ]
+    }
+]

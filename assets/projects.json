@@ -1,0 +1,65 @@
+[
+    {
+        "title": "Vendor Management Tool",
+        "description": "A comprehensive vendor management system built with Next.js for streamlined vendor operations and management.",
+        "technologies": ["Next.js", "React", "JavaScript", "CSS"],
+        "liveLink": "https://vendor-app-psi.vercel.app/",
+        "githubLink": "https://github.com/Ashwinpatel7/Vendor_app",
+        "category": "Web Application",
+        "icon": "🏢"
+    },
+    {
+        "title": "Artist Management App",
+        "description": "Artistly - A modern artist management platform for managing artist profiles, portfolios, and bookings.",
+        "technologies": ["Next.js", "React", "JavaScript", "CSS"],
+        "liveLink": "https://artistly-nu-lovat.vercel.app/",
+        "githubLink": "https://github.com/Ashwinpatel7/artistly",
+        "category": "Web Application",
+        "icon": "🎨"
+    },
+    {
+        "title": "Final Fusion Translator",
+        "description": "A powerful translation application that bridges language barriers with modern web technologies.",
+        "technologies": ["Next.js", "React", "JavaScript", "Translation API"],
+        "liveLink": "https://final-fusion-jcaj.vercel.app/",
+        "githubLink": "https://github.com/Ashwinpatel7/Final_Fusion",
+        "category": "Web Application",
+        "icon": "🌐"
+    },
+    {
+        "title": "Pizza Delivery App",
+        "description": "PizzaFlow - A complete pizza ordering and delivery management system with real-time tracking.",
+        "technologies": ["Next.js", "React", "JavaScript", "CSS"],
+        "liveLink": "https://pizza-flow-khaki.vercel.app/",
+        "githubLink": "https://github.com/Ashwinpatel7/PizzaFlow",
+        "category": "E-commerce",
+        "icon": "🍕"
+    },
+    {
+        "title": "Course Selling Platform",
+        "description": "A comprehensive online course marketplace where instructors can create and sell courses to students.",
+        "technologies": ["Next.js", "React", "JavaScript", "Database"],
+        "liveLink": "#",
+        "githubLink": "#",
+        "category": "E-learning",
+        "icon": "📚"
+    },
+    {
+        "title": "Blogging Website",
+        "description": "A modern blogging platform with rich text editing, user authentication, and content management features.",
+        "technologies": ["Next.js", "React", "JavaScript", "CMS"],
+        "liveLink": "#",
+        "githubLink": "#",
+        "category": "Content Management",
+        "icon": "✍️"
+    },
+    {
+        "title": "Payment App (Paytm Clone)",
+        "description": "A secure digital payment application with wallet functionality, transaction history, and money transfer features.",
+        "technologies": ["Next.js", "React", "JavaScript", "Payment Gateway"],
+        "liveLink": "#",
+        "githubLink": "#",
+        "category": "Fintech",
+        "icon": "💳"
+    }
+]
