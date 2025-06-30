@@ -26,12 +26,23 @@
         "category": "Web Application",
         "icon": "🌐"
     },
+    
+
     {
         "title": "Pizza Delivery App",
         "description": "PizzaFlow - A complete pizza ordering and delivery management system with real-time tracking.",
         "technologies": ["Next.js", "React", "JavaScript", "CSS"],
         "liveLink": "https://pizza-flow-khaki.vercel.app/",
         "githubLink": "https://github.com/Ashwinpatel7/PizzaFlow",
+        "category": "E-commerce",
+        "icon": "🍕"
+    },
+    {
+        "title": "Karma-Verse",
+        "description": "PizzaFlow - A real-time hindu scripture example for putting things together.",
+        "technologies": ["Next.js", "React", "JavaScript", "CSS"],
+        "liveLink": "https://karmaverse-six.vercel.app/",
+        "githubLink": "https://github.com/Ashwinpatel7/karmaverse",
         "category": "E-commerce",
         "icon": "🍕"
     },
